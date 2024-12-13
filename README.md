@@ -1,4 +1,5 @@
-# CS1-Honors-Project-Submission
+# CS1 Honors Project
+by Pavan Siddharth Kosuru
 
 The "notebooks" folder contains the project files to be run.
 The "data" folder contains the power plant data, light pollution map, processed data and data used in the analysis in the report.
