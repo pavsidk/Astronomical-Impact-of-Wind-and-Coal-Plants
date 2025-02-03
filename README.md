@@ -1,4 +1,4 @@
-# CS1 Honors Project
+# Comparative Analysis of Wind and Coal Power Plants on Astronomical Visibility Using Light Pollution Maps
 by Pavan Siddharth Kosuru
 
 The "notebooks" folder contains the project files to be run.
